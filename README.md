@@ -1,7 +1,7 @@
 ![I am tohidul-islam](https://github.com/tohiul-islam/tohiul-islam/blob/main/code.png)
 
 <h1 align="center"> 👋, Hi I'm Tohidul Islam(Affan)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator</h3>
+<h3 align="center">Programmer | Web Designer |SEO Expart </h3>
 <h4 align="center">I'm a Self larnarr</h4>
 
 <div align="center">
