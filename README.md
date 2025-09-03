@@ -18,18 +18,18 @@ Skills: VS code/ HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/tohiul-islam](https://github.com/tohiul-islam)
 
-- 📝 I regularly write articles on [https://www.learnwithTohidul.xyz/](https://www.learnwithTohidul.xyz/)
+- 📝 I regularly write articles on [https://www.Tohidul.com](https:www.tohudul-islam.com)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **rejaoulkorim55@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tohiul-islam](https://lnk.bio/tohiul-islam)
+- 📄 All About Me:rejaoulkorim55@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/Tohidul Islam " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohiul-islam" height="30" width="40" /></a>
+<a href="[https://fb.com/Tohidul Islam](https://www.facebook.com/tohidul.islam.275385) " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohiul-islam" height="30" width="40" /></a>
 <a href="https://twitter.com/Tohidul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohiul-islam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/tohiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tohiul-islam" height="30" width="40" /></a>
