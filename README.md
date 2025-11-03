@@ -16,7 +16,7 @@ Skills: VS code/ HTML / CSS
 
 </div>
 
- - <img width="156" height="145" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" />
+ <img width="156" height="145" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" />
 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning programmar
@@ -101,7 +101,8 @@ I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 ![Tohidul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tohiul-islam&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
-[My profile](https://github.com/tohiul-islam/)
+
+<a href="[Tohidul Islam](https://github.com/tohiul-islam/)" ></a>
 
 <br/>
 
