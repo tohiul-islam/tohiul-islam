@@ -16,8 +16,8 @@ Skills: VS code/ HTML / CSS
 
 </div>
 
- <img width="120" height="140" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" />
-I’m currently Evri day Larning
+ <img width="110" height="115" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" /> <br>
+- I’m currently Evri day Larning
 - 🌱 I’m currently learning programmar
 
 - 👨‍💻 All of my projects are available at [https://github.com/tohidul-islam](https://github.com/tohidul-islam)
