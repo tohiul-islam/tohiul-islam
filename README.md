@@ -1,4 +1,4 @@
-![I am tohidul-islam](https://github.com/tohiul-islam/tohiul-islam/blob/main/code.png)
+![I am tohidul-islam](https://github.com/tohidul-islam/tohidul-islam/blob/main/code.png)
 
 
 
@@ -10,18 +10,17 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=tohiul-islam&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=tohidul-islam&color=red)
 
 Skills: VS code/ HTML / CSS
 
 </div>
 
- <img width="156" height="145" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" />
-I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
-
+ <img width="120" height="140" alt="image" src="https://github.com/user-attachments/assets/86cd651d-094f-496b-b964-8bb46701edae" />
+I’m currently Evri day Larning
 - 🌱 I’m currently learning programmar
 
-- 👨‍💻 All of my projects are available at [https://github.com/tohiul-islam](https://github.com/tohiul-islam)
+- 👨‍💻 All of my projects are available at [https://github.com/tohidul-islam](https://github.com/tohidul-islam)
 
 - 📝 I regularly write articles on [https://www.Tohidul.com](https:www.tohudul-islam.com)
 
@@ -34,14 +33,14 @@ I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="[https://fb.com/Tohidul Islam](https://www.facebook.com/tohidul.islam.275385) " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohiul-islam" height="30" width="40" /></a>
-<a href="https://twitter.com/Tohidul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohiul-islam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tohiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohiul-islam" height="30" width="40" /></a>
-<a href="https://codepen.io/tohiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tohiul-islam" height="30" width="40" /></a>
+<a href="[https://fb.com/Tohidul Islam](https://www.facebook.com/tohidul.islam.275385) " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohidul-islam" height="30" width="40" /></a>
+<a href="https://twitter.com/Tohidul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidul-islam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tohidul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohidul-islam" height="30" width="40" /></a>
+<a href="https://codepen.io/tohidul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tohidul-islam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/rajaoul korim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With tohidul-islam" height="30" width="40" /></a>
 <a href="https://instagram.com/Tohidul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tohidul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/tohiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tohiul-islam" height="30" width="40" /></a>
-<a href="https://www.behance.net/tohiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tohiul-islam" height="30" width="40" /></a>
+<a href="https://dribbble.com/tohidul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tohidul-islam" height="30" width="40" /></a>
+<a href="https://www.behance.net/tohidul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tohidul-islam" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -71,13 +70,13 @@ I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=tohiul-islam&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohiul-islam/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=tohiul-islam&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohiul-islam/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=tohiul-islam&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohiul-islam/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=tohiul-islam&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohiul-islam/weblitical)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=tohidul-islam&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohidul-islam/Java-Project)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=tohidul-islam&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohidul-islam/100_plus_C_Problems)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=tohidul-islam&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohidul-islam/front_end_projects)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=tohidul-islam&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tohidul-islam/weblitical)
 
 <p align="left">
-  <a href="https://github.com/tohiul-islam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/tohidul-islam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -87,22 +86,22 @@ I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/tohiul-islam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohiul-islam&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/tohidul-islam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tohidul-islam&theme=radical" alt="Tohidul's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/tohiul-islam"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tohiul-islam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/tohiul-islam"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tohiul-islam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/tohidul-islam"><img alt="Tohidul's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tohidul-islam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/tohidul-islam"><img alt="Tohidul's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tohidul-islam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Tohidul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tohiul-islam&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Tohidul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tohidul-islam&custom_title=Tohidul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
-<a href="[Tohidul Islam](https://github.com/tohiul-islam/)" ></a>
+<a href="[Tohidul Islam](https://github.com/tohidul-islam/)" ></a>
 
 <br/>
 
@@ -110,10 +109,10 @@ I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tohiul-islam" target="_blank">
+<a href="https://twitter.com/tohidul-islam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/tohiul-islam/" target="_blank">
+<a href="https://www.linkedin.com/in/tohidul-islam/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61552172130446&__cft__[0]=AZUEefSHk_qwApFMo43CHF11MGZzzptVBptme7xX7capDYo--eRpFQL6ZhuR-5vIXvmaQhVEz8iWvM_ehdMa0_3JwcS0X_XXFpT4sBaR2DBGCGxBJMIz4c1R_XR4qDoiZ4-qvtbJA8dJ0-66UsEGsAx9Au-TWYwGQi_D6ewQ1niDJ6oo5dZTVUV7CNxDm0QHX43sz1srT7z0i5Frz8-F8Rog&__tn__=-]C%2CP-R" target="_blank">
